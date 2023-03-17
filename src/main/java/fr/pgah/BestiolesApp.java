@@ -10,11 +10,11 @@ public class BestiolesApp {
     BestioleFrame frame = new BestioleFrame(60, 40);
 
     // Dé-commentez les lignes au fur et à mesure que les classes sont implémentées
-    frame.add(30, Plancton.class);
-    frame.add(30, Crocodile.class);
+    // frame.add(30, Plancton.class);
+    // frame.add(30, Crocodile.class);
     // frame.add(30, Ours.class);
-    // frame.add(30, Tigre.class);
-    // frame.add(30, TigreBlanc.class);
+    frame.add(3, Tigre.class);
+    // frame.addJ(30, TigreBlanc.class);
     // frame.add(30, Yeti.class);
     // frame.add(30, ChatNinja.class);
 
